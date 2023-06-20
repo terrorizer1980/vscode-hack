@@ -325,7 +325,7 @@
   "dependencies": {
     "vscode-debugadapter": "^1.35.0",
     "vscode-debugprotocol": "^1.35.0",
-    "vscode-languageclient": "^5.2.1"
+    "vscode-languageclient": "^7.0.0"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.7",
